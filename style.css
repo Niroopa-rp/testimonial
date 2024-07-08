@@ -1,0 +1,53 @@
+.head{
+    width: 100%;
+    height: 100%;
+    border-width: 3px;
+    border: solid black;
+    background-color: blanchedalmond;
+    margin-right: 40px;
+    
+}
+.omg{
+    column-count: 2;
+    margin-top: 100px;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.a{
+   display: flex;
+   flex-direction: row;
+   margin-bottom: 120px;
+   margin-left: 50px;
+}
+.b{
+    display: flex;
+   flex-direction: row;
+   margin-bottom: 120px;
+   margin-left: 50px;
+
+}
+.c{
+    display: flex;
+   flex-direction: row;
+   margin-bottom: 120px;
+   margin-right: 50px;
+}
+.d{
+    display: flex;
+   flex-direction: row;
+   margin-bottom: 120px;
+   margin-right: 50px;
+}
+i{
+    padding-top: 150px;
+    padding-right: 3cm;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    padding-left: 13cm;
+}
